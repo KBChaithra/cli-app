@@ -1,0 +1,120 @@
+2025/02/14 10:32:25 Error: file does not exist
+2025/02/14 10:50:17 Reading config file: config.json
+2025/02/14 10:50:17 Reading process file for process name: process1
+2025/02/14 10:50:17 Reading directory: yaml_processes
+2025/02/14 10:50:17 Checking file: process.yaml
+2025/02/14 10:50:17 Error: Error reading process file: process file process1.yaml not found in directory yaml_processes
+2025/02/14 10:51:40 reading config file: config.json
+2025/02/14 10:51:40 reading process file for process name: process1
+2025/02/14 10:51:40 reading directory: yaml_processes
+2025/02/14 10:51:40 checking file: process.yaml
+2025/02/14 10:51:40 error: error reading process file: process file process1.yaml not found in directory yaml_processes
+2025/02/14 10:52:24 reading config file: config.json
+2025/02/14 10:52:24 reading process file for process name: process1
+2025/02/14 10:52:24 reading directory: yaml_processes
+2025/02/14 10:52:24 checking file: process.yaml
+2025/02/14 10:52:24 error: error reading process file: process file process1.yaml not found in directory yaml_processes
+2025/02/14 10:52:58 reading config file: config.json
+2025/02/14 10:52:58 reading process file for process name: process
+2025/02/14 10:52:58 reading directory: yaml_processes
+2025/02/14 10:52:58 checking file: process.yaml
+2025/02/14 10:52:58 found process file: process.yaml
+2025/02/14 10:52:58 error: error unmarshaling process YAML: yaml: line 9: did not find expected key
+2025/02/14 10:53:04 reading config file: config.json
+2025/02/14 10:53:04 reading process file for process name: process
+2025/02/14 10:53:04 reading directory: yaml_processes
+2025/02/14 10:53:04 checking file: process.yaml
+2025/02/14 10:53:04 found process file: process.yaml
+2025/02/14 10:53:04 error: error unmarshaling process YAML: yaml: line 9: did not find expected key
+2025/02/14 11:12:19 reading config file: config.json
+2025/02/14 11:12:19 reading process file for process name: process
+2025/02/14 11:12:19 reading directory: yaml_processes
+2025/02/14 11:12:19 checking file: process.yaml
+2025/02/14 11:12:19 found process file: process.yaml
+2025/02/14 11:12:19 executing process: 
+2025/02/14 11:12:19 executing task: task1
+2025/02/14 11:12:19 Command output: Hello World
+2025/02/14 11:12:19 executing task: task2
+2025/02/14 11:12:19 Error executing SSH command: exit status 255
+2025/02/14 11:12:19 executing task: task3
+2025/02/14 11:12:19 File written successfully
+2025/02/14 11:12:34 reading config file: config.json
+2025/02/14 11:12:34 reading process file for process name: process
+2025/02/14 11:12:34 reading directory: yaml_processes
+2025/02/14 11:12:34 checking file: process.yaml
+2025/02/14 11:12:34 found process file: process.yaml
+2025/02/14 11:12:34 executing process: 
+2025/02/14 11:12:34 executing task: task1
+2025/02/14 11:12:34 Command output: Hello World
+2025/02/14 11:12:34 executing task: task2
+2025/02/14 11:12:34 Error executing SSH command: exit status 255
+2025/02/14 11:12:34 executing task: task3
+2025/02/14 11:12:34 File written successfully
+2025/02/17 10:42:04 reading config file: config.json
+2025/02/17 10:42:04 reading process file for process name: process
+2025/02/17 10:42:04 reading directory: yaml_processes
+2025/02/17 10:42:04 checking file: process.yaml
+2025/02/17 10:42:04 found process file: process.yaml
+2025/02/17 10:42:04 executing process: 
+2025/02/17 10:42:04 executing task: task1
+2025/02/17 10:42:04 Command output: Hello World
+2025/02/17 10:42:04 executing task: task2
+2025/02/17 10:42:04 Error executing SSH command: exit status 255
+2025/02/17 10:42:04 executing task: task3
+2025/02/17 10:42:04 File written successfully
+2025/02/17 11:20:12 reading config file: config.json
+2025/02/17 11:20:12 reading process file for process name: process
+2025/02/17 11:20:12 reading directory: yaml_processes
+2025/02/17 11:20:12 checking file: process.yaml
+2025/02/17 11:20:12 found process file: process.yaml
+2025/02/17 11:20:12 executing process: 
+2025/02/17 11:20:12 executing task: task1
+2025/02/17 11:20:12 Command output: Hello World
+2025/02/17 11:20:12 executing task: task2
+2025/02/17 11:20:12 Error executing SSH command: exit status 255
+2025/02/17 11:20:12 executing task: task3
+2025/02/17 11:20:12 File written successfully
+2025/02/17 15:50:13 reading config file: config.json
+2025/02/17 15:50:13 reading process file for process name: process
+2025/02/17 15:50:13 reading directory: yaml_processes
+2025/02/17 15:50:13 checking file: process.yaml
+2025/02/17 15:50:13 found process file: process.yaml
+2025/02/17 15:50:13 executing process: 
+2025/02/17 15:50:13 executing task: task1
+2025/02/17 15:50:13 Command output: Hello World
+2025/02/17 15:50:13 executing task: task2
+2025/02/17 15:50:13 Failed to dial SSH: dial tcp: lookup remotehost: no such host
+2025/02/17 23:32:39 reading config file: config.json
+2025/02/17 23:32:39 reading process file for process name: process
+2025/02/17 23:32:39 reading directory: yaml_processes
+2025/02/17 23:32:39 checking file: process.yaml
+2025/02/17 23:32:39 found process file: process.yaml
+2025/02/17 23:32:39 executing process: 
+2025/02/17 23:32:39 executing task: task1
+2025/02/17 23:32:39 Command output: Hello World
+2025/02/17 23:32:39 executing task: task2
+2025/02/17 23:32:39 Failed to dial SSH: dial tcp: lookup remotehost: no such host
+2025/02/17 23:34:08 reading config file: config.json
+2025/02/17 23:34:08 reading process file for process name: process
+2025/02/17 23:34:08 reading directory: yaml_processes
+2025/02/17 23:34:08 checking file: process.yaml
+2025/02/17 23:34:08 found process file: process.yaml
+2025/02/17 23:34:08 executing process: 
+2025/02/17 23:34:08 executing task: task1
+2025/02/17 23:34:08 Command output: Hello World
+2025/02/17 23:34:08 executing task: task2
+2025/02/17 23:34:08 Error executing SSH command: exit status 255
+2025/02/17 23:34:08 executing task: task3
+2025/02/17 23:34:08 File written successfully
+2025/02/17 23:35:40 reading config file: config.json
+2025/02/17 23:35:40 reading process file for process name: process
+2025/02/17 23:35:40 reading directory: yaml_processes
+2025/02/17 23:35:40 checking file: process.yaml
+2025/02/17 23:35:40 found process file: process.yaml
+2025/02/17 23:35:40 executing process: 
+2025/02/17 23:35:40 executing task: task1
+2025/02/17 23:35:40 Command output: Hello World
+2025/02/17 23:35:40 executing task: task2
+2025/02/17 23:35:40 Error executing SSH command: exit status 255
+2025/02/17 23:35:40 executing task: task3
+2025/02/17 23:35:40 File written successfully

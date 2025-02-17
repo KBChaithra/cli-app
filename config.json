@@ -1,0 +1,7 @@
+{
+    "process_name": "process",
+    "process_params": {
+    "user": "root",
+    "host": "remotehost"
+    }
+}

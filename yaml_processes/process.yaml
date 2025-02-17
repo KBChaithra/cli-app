@@ -1,0 +1,19 @@
+params:
+  user: demo
+  host: test.rebex.net
+tasks:
+  - id: task1
+    class: localCmd
+    params:
+      command: "echo Hello World"
+  - id: task2
+    class: sshCmd
+    params:
+      user: "{{.user}}"
+      host: "{{.host}}"
+      command: "echo Hello Remote"
+  - id: task3
+    class: writefile
+    params:
+      filename: "testfile.txt"
+      content: "This is a test file"
